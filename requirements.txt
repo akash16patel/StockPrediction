@@ -2,3 +2,4 @@ pandas
 matplotlib
 tensorflow
 sklearn
+pandas_reader
